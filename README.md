@@ -3,8 +3,8 @@ A collection of mini projects that will help learn python in a meaningful way.
 
 ## Requirements:
 
--Anaconda (Python 2.7) https://www.anaconda.com/download/
--Github Desktop + Account https://desktop.github.com/
+- Anaconda (Python 2.7) https://www.anaconda.com/download/
+- Github Desktop + Account https://desktop.github.com/
 
 ## Outcome:
 
