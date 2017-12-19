@@ -1,4 +1,4 @@
-## Project 1: Uncle Barnie's Car Inventory 
+# Project 1: Uncle Barnie's Car Inventory 
 #### This project addresses a few of the big concepts with Object Oriented Design and Programming.
 
 Some things to consider:
