@@ -13,6 +13,6 @@ ___
 | Week 3        | Loops and Week 2 follow up.|
 | Week 4        | Functions and Week 3 follow up.|
 | Week 5        | Classes and Week 4 follow up.|
-| Week 6        | Web Server and Week 5 follow up.|
+| Week 6        | Databases and Week 5 follow up.|
 | Week 7        | Web Server Continued.|
 | Week 8        | Final.|
