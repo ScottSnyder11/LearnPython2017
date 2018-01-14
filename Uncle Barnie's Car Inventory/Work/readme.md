@@ -1,6 +1,6 @@
-### Please create a directory with your last name, an underscore, and first name.
-#### IE: If your name is John Smith then your directory would be called Smith_John
+#### Please do the following:
 
-#### Inside this directory you can organize your notes, tests, assignments.
-
-#### Make three more directories inside here named Notes, Tests, Assignments.
+    1. Create your lastname_firstname directory
+    2. Inside that directory create three more Notes, Tests, Assignments.
+    
+This is just a guideline.  Please organize your additional files as you see fit inside these three.
