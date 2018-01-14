@@ -10,3 +10,18 @@ Some things to consider:
 
 Please follow the lessons in numerical order.
 
+
+#### Documentation:
+
+  The documentation contains each story for the assignments.
+  
+#### Assignemnts:
+
+  This directory contains sample code for each assignment.
+  
+#### Tests:
+  This directory will contain each test and quiz that will be a part of this assignment.
+  
+#### Work:
+  This directory will contain your work and notes.  
+
