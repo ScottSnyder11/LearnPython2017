@@ -1,5 +1,10 @@
 ### Tests will be worth 21% of your grade.  There will be 7 tests each worth 30 points a total of 210 points.
 ### The Final will be worth 29% of your grade which will be worth 290 points.
+
+___
+ 
+ The test schedule is:
+ 
  
 | Week          | Topic          
 | ------------- |:-------------:|
