@@ -15,7 +15,7 @@ Please follow the lessons in numerical order.
 
   The documentation contains each story for the assignments.
   
-### Assignemnts:
+### Assignments:
 
   This directory contains sample code for each assignment.
   
