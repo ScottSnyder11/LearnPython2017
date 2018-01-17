@@ -17,6 +17,7 @@ employee_id = input("What is the employee's ID?")
 #The \n means a newline
 #The \t means a tab
 #The {number} is how you are going to put your values in the print statement.
-#Make sure to take notice of the .format() function call at the end of the print statement.  
+#Make sure to take notice of the .format() function call at the end of the print statement.
 print ('Employee Information:\n\n \tFirst Name: {0}\n \tLast Name: {1}'
-       '\n \tAge: {2}\n \tEmployee ID: {3}\n'.format(first_name,last_name,age,employee_id))
+       '\n \tAge: {2}\n \tEmployee ID: {3}\n'
+       .format(first_name,last_name,age,employee_id))

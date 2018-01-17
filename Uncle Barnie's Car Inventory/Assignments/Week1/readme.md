@@ -1,19 +1,20 @@
+## Assignment 1
 
-### Assignment 1  User input and output to screen.
-____
+In this assignment you will be learning the fundamentals of python programming.
 
-The user will be prompted for car information.  color, make, model, year, gearshift type (Automatic or Manual) and price.
-After the user is done entering the last input the application will output the car information back to the user in a format as shown:
+By the end of this week you should know the following:
 
-      Car Information:
-   
-      Make:
-      
-      Model:
-      
-      Year:
-      
-      Gearshift Type:
-      
-      Price:
-      
+  - Why white space is important in python.
+  - What are three data types in python.
+  - How to gather input from a user.
+  - How to display data to the screen.
+  - What it means when you read "Everything is an object in python".
+  - What a function is.
+  - What a class is.
+  
+  Part 1 focuses on gathering input and displaying it to the screen.
+  
+  Part 2 will focus on storing data and creating functions to define certain features.  We will also update our part 1 to be user driven.
+  
+  Part 3  will update part 2 to create a python class to store the data and create functions to store and display the information.
+  
